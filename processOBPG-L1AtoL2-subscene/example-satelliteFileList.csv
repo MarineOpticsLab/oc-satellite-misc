@@ -1,0 +1,10 @@
+cruise,granid,granlinks
+s020905w,A2002248165500,https://oceandata.sci.gsfc.nasa.gov/ob/getfile/A2002248165500.L1A_LAC.bz2
+s020905w,T2002248152000,https://oceandata.sci.gsfc.nasa.gov/ob/getfile/T2002248152000.L1A_LAC.bz2
+s020905w,S2002248172816,https://oceandata.sci.gsfc.nasa.gov/ob/getfile/S2002248172816.L1A_MLAC.bz2
+s160429w,V2016120181200,https://oceandata.sci.gsfc.nasa.gov/ob/getfile/V2016120181200.L1A_SNPP.nc
+s990619w,S1999170183214,https://oceandata.sci.gsfc.nasa.gov/ob/getfile/S1999170183214.L1A_MLAC.bz2
+s990619w,S1999170165316,https://oceandata.sci.gsfc.nasa.gov/ob/getfile/S1999170165316.L1A_MLAC.bz2
+s160927w,V2016271160000,https://oceandata.sci.gsfc.nasa.gov/ob/getfile/V2016271160000.L1A_SNPP.nc
+s170604w,A2017155173500,https://oceandata.sci.gsfc.nasa.gov/ob/getfile/A2017155173500.L1A_LAC.bz2
+s170604w,T2017155155500,https://oceandata.sci.gsfc.nasa.gov/ob/getfile/T2017155155500.L1A_LAC.bz2
